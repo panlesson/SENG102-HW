@@ -8,7 +8,7 @@ Mehmet Can Şahan  231504018
 
 1- Click "Code" on the top right and then click "Download ZIP."
 
-2- Right-click the downloaded zip file and select "Extract" to the Desktop or the location of your choice.
+2- Right-click the downloaded zip file and select "Extract" to the Desktop or the location of your choice.(To work with the file, you need to extract it from the zip archive. You can simply open the zip file and drag the file out.)
 
 3- Open the extracted file and run "LibraryManagementSystem.exe."
 
