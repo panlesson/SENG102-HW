@@ -12,7 +12,7 @@ Mehmet Can Şahan  231504018
 
 3- Open the extracted file and run "LibraryManagementSystem.exe."
 
-4- To gain full access to the system, you need to log in as an admin. Enter the following:
+4- To gain full access to the system, you need to log in as an admin.(Normal users can't manage other users, only admin can manage other users.) Enter the following:
 
 -> Library Card Number: admin
 
