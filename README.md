@@ -1,4 +1,4 @@
-# SENG102-HW
+# SENG102-Project
 Serken Gür        231504001
 
 Coşkun Sönmezoğlu 231504002
