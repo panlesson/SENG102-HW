@@ -10,7 +10,7 @@ Mehmet Can Şahan  231504018
 
 2- Right-click the downloaded zip file and select "Extract" to the Desktop or the location of your choice.(To work with the file, you need to extract it from the zip archive. You can simply open the zip file and drag the file out.)
 
-3- Open the extracted file and run "LibraryManagementSystem.exe."(The Windows Defender can block that action so if you get warning message just click more info and Run or just run changes by OS.)
+3- Open the extracted file and run "LibraryManagementSystem.exe."(The Antivirus Defender can block that action so if you get warning message just click more info and Run or just run changes by OS or AntiVirus Software.)
 
 4- To gain full access to the system, you need to log in as an admin.(Normal users can't manage other users, only admin can manage other users.) Enter the following:
 
