@@ -1,7 +1,10 @@
 # SENG102-HW
 Serken Gür        231504001
+
 Coşkun Sönmezoğlu 231504002
+
 Mehmet Can Şahan  231504018
+
 
 1- Click "Code" on the top right and then click "Download ZIP."
 
