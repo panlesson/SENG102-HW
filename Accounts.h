@@ -132,7 +132,7 @@ void Account::addUser() {
     cin >> newUser.libraryCardNumber;
     cout << "Enter new user's PIN: ";
     cin >> newUser.pin;
-    newUser.role = "user"; // New user's role is set to "user"
+    newUser.role = "user"; 
     users.push_back(newUser);
     saveUsersToFile();
     cout << "User added successfully!\n";
