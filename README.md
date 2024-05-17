@@ -1,6 +1,8 @@
 # SENG102-Project
 Serken Gür        231504001
+
 Coşkun Sönmezoğlu 231504002
+
 Mehmet Can Şahan  231504018
 
 We got 2 version for our project to open version 1:
